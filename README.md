@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/josespinozaf/DevOps-Pipelines/_apis/build/status/jpespinozaf.mslearn-tailspin-spacegame-web-deploy?branchName=master)](https://dev.azure.com/josespinozaf/DevOps-Pipelines/_build/latest?definitionId=3&branchName=master)
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
